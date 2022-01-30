@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leonkelvin2000
-- 👀 I’m interested in Data Analysis
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning pending
 - 💞️ I’m looking to collaborate on Data Analysis projects
 - 📫 How to reach me ...
